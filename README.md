@@ -4,3 +4,7 @@ Baltic Summer School of Digital Humanities - Workshop Language Processing and Vi
 ![DH](https://site-512948.mozfiles.com/files/512948/DHbaneris2.gif)
 
 [Program](http://www.digitalhumanities.lv/bssdh/2022/lectures-and-workshops/)
+
+Data Sources:
+[HC Copora](https://www.kaggle.com/datasets/alvations/old-newspapers)
+
