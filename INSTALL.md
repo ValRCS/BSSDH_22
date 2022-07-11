@@ -15,6 +15,7 @@
 ## Tutorial for those new to Jupyter Notebooks
 
 * read the tutorial on notebooks: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+* open up a Notebook tutorial - [Link](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/HEAD?urlpath=lab/tree/demo)
 
 ### Readiness check
 * create a simple notebook of your own, run print("Hello World") in a cell, submission is NOT required
