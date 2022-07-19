@@ -15,7 +15,7 @@ Baltic Summer School of Digital Humanities - Workshop Language Processing and Vi
 ## How to participate?
 
 ### Main Path  - Google Colab
-Use Google Colab to open notebooks on remote(cloud) Google server
+Use Google Colab to open notebooks on a remote(cloud) Google server
 
 Note: notebooks shut down after 30 minutes of inactivity. 
 
@@ -29,7 +29,7 @@ Note: notebooks shut down after 30 minutes of inactivity.
 ### Alternative B - Local Jupyter Notebook
 Fastest for work - data lives on your own computer
 
-Downside - setup:
+Downside - more involved setup:
 * install Anaconda - https://www.anaconda.com/products/distribution
 * git clone or download this workshop code locally https://github.com/ValRCS/BSSDH_22/archive/refs/heads/main.zip 
 * Start Anaconda Navigator -> Start Jupyter Notebooks
