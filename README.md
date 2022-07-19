@@ -14,3 +14,18 @@ Baltic Summer School of Digital Humanities - Workshop Language Processing and Vi
 Data Sources:
 [HC Copora](https://www.kaggle.com/datasets/alvations/old-newspapers)
 
+## How to participate?
+
+### Main Path - Google Colab
+Use Google Colab to open notebooks remote(cloud) Google server
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
+
+### Alternative A - Local Jupyter Notebook
+Fastest but there might be installation issues
+
+
+### Alternative B - myBinder
+Binder is an alternative to Google Colab, looks very similar to local installation but code runs on remote(cloud) server
+Downside - 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/BSSDH_22/master)
+
