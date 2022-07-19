@@ -41,7 +41,7 @@ Binder is an alternative to Google Colab, looks very similar to local installati
 
 Downside - sometimes slow to start 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/BSSDH_22/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/BSSDH_22/main)
 
 ---
 Data Sources:
