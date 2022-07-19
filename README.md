@@ -16,6 +16,7 @@ Baltic Summer School of Digital Humanities - Workshop Language Processing and Vi
 
 ### Main Path  - Google Colab
 Use Google Colab to open notebooks on remote(cloud) Google server
+
 Downside - notebooks shut down after 30 minutes of inactivity.
 
 [![Python Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
