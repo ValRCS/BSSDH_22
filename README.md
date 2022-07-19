@@ -20,10 +20,10 @@ Use Google Colab to open notebooks on a remote(cloud) Google server
 Note: notebooks shut down after 30 minutes of inactivity. 
 
 * Day 1 - Part 1 - Introduction to Python [![Python Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
-* Day 1 - Part 2 - Preprocessing Corpora
+* Day 1 - Part 2 - Preprocessing Corpora with Pandas
 * Day 1 - Part 3 - Filtering Documents
-* Day 2 - Part 1 - Exploring Data
-* Day 2 - part 2 - Analyzing Data
+* Day 2 - Part 1 - Exploring Data with Plotly
+* Day 2 - part 2 - Analyzing Data with NLTK
 * Day 2 - Part 3 - Modeling Data
 
 ### Alternative B - Local Jupyter Notebook
