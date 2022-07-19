@@ -16,16 +16,23 @@ Data Sources:
 
 ## How to participate?
 
-### Main Path - Google Colab
+### Main Path  - Google Colab
 Use Google Colab to open notebooks remote(cloud) Google server
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
+
+[![Python Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
 
 ### Alternative A - Local Jupyter Notebook
-Fastest but there might be installation issues
+Fastest for work - data lives on your own computer
+Downside - setup:
+* install Anaconda - https://www.anaconda.com/products/distribution
+* git clone or download this workshop code locally https://github.com/ValRCS/BSSDH_22/archive/refs/heads/main.zip 
+* Start Anaconda Navigator -> Start Jupyter Notebooks
+* Navigate to folder with the workshop files -> open notebook
 
 
 ### Alternative B - myBinder
 Binder is an alternative to Google Colab, looks very similar to local installation but code runs on remote(cloud) server
-Downside - 
+Downside - sometimes very slo
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/BSSDH_22/master)
 
