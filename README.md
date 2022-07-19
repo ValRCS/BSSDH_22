@@ -19,7 +19,12 @@ Use Google Colab to open notebooks on remote(cloud) Google server
 
 Downside - notebooks shut down after 30 minutes of inactivity.
 
-[![Python Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
+* Day 1 - Part 1 - Python Introduction [![Python Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Python%20Introduction.ipynb)
+* Day 1 - Part 2 - Preprocessing Data
+* Day 1 - Part 3 - Filtering Data
+* Day 2 - Part 1 - Exploring Data
+* Day 2 - part 2 - Analyzing Data
+* Day 2 - Part 3 - Modeling Data
 
 ### Alternative B - Local Jupyter Notebook
 Fastest for work - data lives on your own computer
