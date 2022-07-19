@@ -32,6 +32,7 @@ Downside - setup:
 
 ### Alternative B - myBinder
 Binder is an alternative to Google Colab, looks very similar to local installation but code runs on remote(cloud) server
+
 Downside - sometimes very slo
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/BSSDH_22/master)
