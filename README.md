@@ -24,7 +24,7 @@ Note: notebooks shut down after 30 minutes of inactivity.
 * Day 1 - Part 3 - Filtering Documents with Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Filtering%20Documents%20with%20Pandas.ipynb)
 * Day 2 - Part 1 - Exploring Data with NLTK  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/NLTK_Introduction.ipynb)
 * Day 2 - Part 2 - Visualizing Data with Plotly
-* Day 2 - Part 3 - Modeling Data
+* Day 2 - Part 3 - Modeling Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/topic-modeling-for-custom-data.ipynb)
 
 ### Alternative B - Local Jupyter Notebook
 Fastest for work - data lives on your own computer
