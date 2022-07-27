@@ -26,6 +26,7 @@ Note: notebooks shut down after 30 minutes of inactivity.
 * Day 2 - Part 1 - Exploring Data with NLTK  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/NLTK_Introduction.ipynb)
 [Video Day 2 - Part 1](https://youtu.be/6puA50FotH0)
 * Day 2 - Part 2 - Visualizing Data with Plotly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/visualizing-word-frequencies-for-custom-data.ipynb)
+[Video Day 2 - Part 2](https://youtu.be/KNYJuJuXKJo)
 * Day 2 - Part 3 - Modeling Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/topic-modeling-for-custom-data.ipynb)
 
 ### Alternative B - Local Jupyter Notebook
