@@ -24,6 +24,7 @@ Note: notebooks shut down after 30 minutes of inactivity.
 * Day 1 - Part 2 - Reading Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Reading_Data.ipynb)
 [Video Day 1 - Part 2](https://youtu.be/v-1JadjRez0)
 * Day 1 - Part 3 - Filtering Documents with Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/Filtering%20Documents%20with%20Pandas.ipynb)
+[Video Day 1 - Part 3](https://youtu.be/EXo36xj3tDk)
 * Day 2 - Part 1 - Exploring Data with NLTK  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/NLTK_Introduction.ipynb)
 [Video Day 2 - Part 1](https://youtu.be/6puA50FotH0)
 * Day 2 - Part 2 - Visualizing Data with Plotly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_22/blob/main/notebooks/visualizing-word-frequencies-for-custom-data.ipynb)
